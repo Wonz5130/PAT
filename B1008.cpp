@@ -1,3 +1,5 @@
+/*
+//1st
 #include<cstdio>
 int main(){
     int n,x;
@@ -20,12 +22,11 @@ int main(){
     }
     return 0;
 }
-
+*/
 
 
 /*
 // PAT代码
-
 #include<cstdio>
 int main(){
     int n,x;
@@ -49,3 +50,36 @@ int main(){
     return 0;
 }
 */
+
+
+//2nd
+#include<stdio.h>
+int main(){
+    int n,x;
+    scanf("%d%d",&n,&x);
+    x %= n;
+    int a[n];
+    for(int i =0;i < n;i ++){
+        scanf("%d",&a[i]);
+    }
+    if(x == 0){
+        for(int i = 0;i < n;i ++){
+            printf("%d",a[i]);
+            if(i != n-1){
+                printf(" ");
+            }
+        }
+    }
+    else{
+        for(int i = n-x;i < n;i ++){
+            printf("%d",a[i]);
+            if(i != n-1){
+                printf(" ");
+            }
+        }
+        for(int i = 0;i < n-x;i ++){
+            printf(" %d",a[i]);
+        }
+    }
+    return 0;
+}

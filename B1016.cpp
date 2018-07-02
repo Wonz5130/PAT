@@ -36,9 +36,8 @@ int main(){
 */
 
 
-
-
-
+/*
+//1st
 #include<cstdio>
 int main(){
     long long A,B,DA,DB,x,y;
@@ -58,5 +57,31 @@ int main(){
         B/=10;
     }
     printf("%lld",x+y);
+    return 0;
+}
+*/
+
+
+//2nd
+#include<stdio.h>
+int main(){
+    long long A,B;
+    int DA,DB,x,y;
+    x = 0;
+    y = 0;
+    scanf("%lld%d%lld%d",&A,&DA,&B,&DB);
+    while(A != 0){
+        if(A%10 == DA){
+            x = x*10+DA;
+        }
+        A /= 10;
+    }
+    while(B != 0){
+        if(B%10 == DB){
+            y = y*10+DB;
+        }
+        B /= 10;
+    }
+    printf("%d",x+y);
     return 0;
 }

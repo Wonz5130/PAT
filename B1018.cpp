@@ -1,3 +1,5 @@
+/*
+//1st
 #include<cstdio>
 int main(){
     int n,count1,count2,count3,c1,j1,b1,c2,j2,b2,i;
@@ -47,6 +49,7 @@ int main(){
     if(c2>b2&&c2>=j2) printf("C");
     return 0;
 }
+*/
 
 
 /*
@@ -97,3 +100,72 @@ int main(){
     return 0;
 }
 */
+
+
+//2nd
+#include<stdio.h>
+int main(){
+    int N;
+    char jia,yi;
+    int AS,AE,AF,count1c,count1j,count1b,count2c,count2j,count2b;  //甲胜、甲平、甲负
+    AS = AE = AF = count1c = count1j = count1b = count2c = count2j = count2b = 0;
+    scanf("%d",&N);
+    for(int i = 0;i < N;i ++){
+        getchar();
+        scanf("%c %c",&jia,&yi);
+        if(jia == 'C' && yi == 'J'){
+            AS++;
+            count1c++;  //只要记录赢的时候的手势,看清题目
+        }
+        else if(jia == 'C' && yi == 'B'){
+            AF++;
+            count2b++;
+        }
+        else if(jia == 'C' && yi == 'C'){
+            AE++;
+        }
+        else if(jia == 'B' && yi == 'B'){
+            AE++;
+        }
+        else if(jia == 'B' && yi == 'C'){
+            AS++;
+            count1b++;
+        }
+        else if(jia == 'B' && yi == 'J'){
+            AF++;
+            count2j++;
+        }
+        else if(jia == 'J' && yi == 'B'){
+            AS++;
+            count1j++;
+        }
+        else if(jia == 'J' && yi == 'C'){
+            AF++;
+            count2c++;
+        }
+        else{
+            AE++;
+        }
+    }
+    printf("%d %d %d\n",AS,AE,AF);
+    printf("%d %d %d\n",AF,AE,AS);
+    if(count1b >= count1c && count1b >= count1j){
+        printf("B ");
+    }
+    else if(count1c > count1b && count1c >= count1j){  //结果相同,按字典序输出
+        printf("C ");
+    }
+    else if(count1j > count1b && count1j > count1c){
+        printf("J ");
+    }
+    if(count2c > count2b && count2c >= count2j){
+        printf("C");
+    }
+    else if(count2b >= count2c && count2b >= count2j){
+        printf("B");
+    }
+    else if(count2j > count2b && count2j > count2c){
+        printf("J");
+    }
+    return 0;
+}

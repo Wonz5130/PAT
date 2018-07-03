@@ -1,3 +1,5 @@
+/*
+//1st
 #include<stdio.h>
 int main(){
     //char A,B,D;
@@ -19,9 +21,11 @@ int main(){
     }
     return 0;
 }
+*/
 
 
 /*
+//PAT
 #include<stdio.h>
 int main(){
     //char A,B,D;
@@ -42,3 +46,22 @@ int main(){
     return 0;
 }
 */
+
+
+//2nd
+#include<stdio.h>
+int main(){
+    long long A,B;
+    int D,a[100],i = 0;
+    scanf("%lld%lld%d",&A,&B,&D);
+    A = A+B;
+    do{
+        a[i++] = A%D;
+        A /= D;
+    }
+    while(A != 0);
+    for(i--;i >= 0;i--){
+        printf("%d",a[i]);
+    }
+    return 0;
+}

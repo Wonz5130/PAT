@@ -1,5 +1,6 @@
 /*
-// 运行超时
+//1st
+//运行超时
 #include<cstdio>
 int main(){
     int n;
@@ -39,7 +40,8 @@ int main(){
 */
 
 
-
+/*
+//1st
 #include<cstdio>
 int main(){
     int n;
@@ -58,8 +60,8 @@ int main(){
     for(int i=0;i<m;i++){
         scanf("%d%d",&left,&right);
         if(left<right){
-            add[i][0]=dis[right-1]-dis[left-1];
-            add[i][1]=sum-add[i][0];
+            add[i][0]=dis[right-1]-dis[left-1];  //最短路径就是dis相减，不过要注意下标要-1
+            add[i][1]=sum-add[i][0];  //另一个方向的dis就是总和-上面的距离
             if(add[i][0]<add[i][1]) printf("%d\n",add[i][0]);
             else printf("%d\n",add[i][1]);
         }
@@ -69,6 +71,35 @@ int main(){
             if(add[i][0]<add[i][1]) printf("%d\n",add[i][0]);
             else printf("%d\n",add[i][1]);
         }
+    }
+    return 0;
+}
+*/
+
+
+//2nd
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+int main(){
+    int n,sum = 0;
+    scanf("%d",&n);
+    int a[100010] = {0};  //数组范围尽量设大一点,否则测试3过不去,段错误
+    int dis[100010] = {0};
+    for(int i = 1;i <= n;i ++){
+        scanf("%d",&a[i]);
+        sum += a[i];
+        dis[i] = sum;
+    }
+    int m,left,right,road;
+    scanf("%d",&m);
+    for(int i = 0;i < m;i ++){
+        road = 0;
+        scanf("%d%d",&left,&right);
+        if(left > right) swap(left,right);  //保证left < right
+        road = dis[right-1]-dis[left-1];
+        if(road <= sum-road) printf("%d\n",road);
+        else printf("%d\n",sum-road);
     }
     return 0;
 }

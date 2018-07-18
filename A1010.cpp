@@ -1,6 +1,4 @@
 #include<cstdio>
-#include<algorithm>
-using namespace std;
 int main(){
 	double x,y,z,sum=1.0;
 	for(int i = 0;i < 3;i ++){

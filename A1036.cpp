@@ -1,6 +1,6 @@
 #include<cstdio>
 struct student{
-	char name[20];
+	char name[20];  //数组大小要大于10
 	char gender;
 	char ID[20];
 	int grade;
@@ -11,8 +11,8 @@ int main(){
 	int fmax=0,mmin=100;
 	scanf("%d",&n);
 	for(int i = 0;i < n;i ++){
-		scanf("%s %c %s %d",student[i].name,&student[i].gender,student[i].ID,&student[i].grade);
-		if(student[i].gender == 'F'){
+		scanf("%s %c %s %d",student[i].name,&student[i].gender,student[i].ID,&student[i].grade);  //字符串输入不用&
+		if(student[i].gender == 'F'){  //字符直接用=比较,如果是字符串要用strcmp
 			if(student[i].grade >= fmax){
 				fmax = student[i].grade;
 				girl = i;
@@ -26,7 +26,7 @@ int main(){
 		}
 	}
 	if(girl == -1){
-		printf("Absent\n");
+		printf("Absent\n");  //判断如果没有的话
 	}
 	else printf("%s %s\n",student[girl].name,student[girl].ID);
 	if(boy == -1){

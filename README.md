@@ -201,134 +201,59 @@
 | 1035 | 插入与归并(25)               |  [暂无]()  |                                                              | two pointers          |
 | 1036 | 跟奥巴马一起编程(15)         |  [查看题解](https://blog.csdn.net/wonz5130/article/details/79603171)  | [暂无]() | 图形打印              |
 | 1037 | 在霍格沃茨找零钱（20)        |  [暂无]()  | [暂无]() | 进制转换              |
-| 1038 | 统计同成绩学生(20)           |  [暂无]()  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1038/Main.java) | Hash散列              |
-| 1039 | 到底买不买 (20)              |  [查看题解](http://www.liuchuo.net/archives/571)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1039/Main.java) | Hash散列              |
-| 1040 | 有几个PAT（25)               |  [查看题解](http://www.liuchuo.net/archives/573)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1040/Main.java) | 逻辑题                |
+| 1038 | 统计同成绩学生(20)           |  [暂无]()  | [暂无]() | Hash散列              |
+| 1039 | 到底买不买 (20)              |  [暂无]()  | [暂无]() | Hash散列              |
+| 1040 | 有几个PAT（25)               |  [暂无]()  | [暂无]() | 逻辑题                |
 | 1041 | 考试座位号(15)               |  [查看题解](https://blog.csdn.net/wonz5130/article/details/81071959)  | [暂无]() | 查找元素              |
-| 1042 | 字符统计(20)                 |  [查看题解](http://www.liuchuo.net/archives/577)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1042/Main.java) | Hash散列              |
-| 1043 | 输出PATest(20)               |  [查看题解](http://www.liuchuo.net/archives/579)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1043/Main.java) | Hash散列              |
-| 1044 | 火星数字(20)                 |  [查看题解](http://www.liuchuo.net/archives/581)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1044/Main.java) | map映射，STL的使用    |
-| 1045 | 快速排序(25)                 |  [查看题解](http://www.liuchuo.net/archives/505)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1045/Main.java) | 快速排序              |
+| 1042 | 字符统计(20)                 |  [暂无]()  | [暂无]() | Hash散列              |
+| 1043 | 输出PATest(20)               |  [暂无]()  | [暂无]() | Hash散列              |
+| 1044 | 火星数字(20)                 |  [暂无]()  | [暂无]() | map映射，STL的使用    |
+| 1045 | 快速排序(25)                 |  [暂无]()  | [暂无]() | 快速排序              |
 | 1046 | 划拳(15)                     |  [查看题解](https://blog.csdn.net/wonz5130/article/details/79823312)  | [暂无]() | 模拟                  |
-| 1047 | 编程团体赛(20)               |  [查看题解](http://www.liuchuo.net/archives/586)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1047/Main.java) | Hash散列              |
-| 1048 | 数字加密(20)                 |  [查看题解](http://www.liuchuo.net/archives/465)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1048/Main.java) | 字符串处理            |
+| 1047 | 编程团体赛(20)               |  [暂无]()  | [暂无]() | Hash散列              |
+| 1048 | 数字加密(20)                 |  [暂无]()  | [暂无]() | 字符串处理            |
 | 1049 | 数列的片段和(20)             |  [查看题解](https://blog.csdn.net/wonz5130/article/details/79944656)  | [暂无]() | 数学问题              |
-| 1050 | 螺旋矩阵(25)                 | [查看题解](http://www.liuchuo.net/archives/2070)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1050/Main.java) | 模拟                  |
-| 1051 | 复数乘法 (15)                |  [查看题解](http://www.liuchuo.net/archives/606)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1051/Main.java) | 模拟                  |
-| 1052 | 卖个萌 (20)                  |  [查看题解](http://www.liuchuo.net/archives/613)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1052/Main.java) | 字符串处理            |
-| 1053 | 住房空置率 (20)              |  [查看题解](http://www.liuchuo.net/archives/615)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1053/Main.java) | 模拟                  |
-| 1054 | 求平均值 (20)                |  [查看题解](http://www.liuchuo.net/archives/617)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1054/Main.java) | 字符串处理            |
-| 1055 | 集体照 (25)                  |  [查看题解](http://www.liuchuo.net/archives/619)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1055/Main.java) | 排序                  |
-| 1056 | 组合数的和(15)               | [查看题解](http://www.liuchuo.net/archives/2492)  |                                                              | 数学问题              |
-| 1057 | 数零壹(20)                   | [查看题解](http://www.liuchuo.net/archives/2494)  |                                                              | 进制转换              |
-| 1058 | 选择题(20)                   | [查看题解](https://www.liuchuo.net/archives/2496) |                                                              | 字符串处理            |
-| 1059 | C语言竞赛(20)                | [查看题解](http://www.liuchuo.net/archives/2486)  |                                                              | 逻辑题                |
-| 1060 | 爱丁顿数(25)                 | [查看题解](http://www.liuchuo.net/archives/2480)  |                                                              | 逻辑题                |
-| 1061 | 判断题(15)                   | [查看题解](http://www.liuchuo.net/archives/2742)  |                                                              | 逻辑题                |
-| 1062 | 最简分数(20)                 | [查看题解](http://www.liuchuo.net/archives/2744)  |                                                              | 分数化简              |
-| 1063 | 计算谱半径(20)               | [查看题解](http://www.liuchuo.net/archives/2746)  |                                                              | 逻辑题                |
-| 1064 | 朋友数(20)                   | [查看题解](http://www.liuchuo.net/archives/2889)  |       [查看题解](http://www.liuchuo.net/archives/2738)       | STL-set的使用         |
-| 1065 | 单身狗(25)                   | [查看题解](http://www.liuchuo.net/archives/2740)  |                                                              | 逻辑题，STL-set的使用 |
-| 1066 | 图像过滤(15)                 | [查看题解](http://www.liuchuo.net/archives/3747)  |                                                              | 逻辑题                |
-| 1067 | 试密码(20)                   | [查看题解](http://www.liuchuo.net/archives/3749)  |                                                              | 字符串                |
-| 1068 | 万绿丛中一点红(20)           | [查看题解](http://www.liuchuo.net/archives/3755)  |                                                              | 逻辑题                |
-| 1069 | 微博转发抽奖(20)             | [查看题解](http://www.liuchuo.net/archives/3743)  |                                                              | map映射               |
-| 1070 | 结绳(25)                     | [查看题解](http://www.liuchuo.net/archives/3745)  |                                                              | 排序，贪心            |
-| 1071 | 小赌怡情(15)                 | [查看题解](http://www.liuchuo.net/archives/4212)  |                                                              | 水题                  |
-| 1072 | 开学寄语(20)                 | [查看题解](http://www.liuchuo.net/archives/4214)  |                                                              | 简单题                |
-| 1073 | 多选题常见计分法(20)         | [查看题解](http://www.liuchuo.net/archives/4216)  |                                                              | 逻辑题                |
-| 1074 | 宇宙无敌加法器(20)           | [查看题解](http://www.liuchuo.net/archives/4218)  |                                                              | 逻辑题                |
-| 1075 | 链表元素分类(25)             | [查看题解](http://www.liuchuo.net/archives/4094)  |                                                              | 链表                  |
-| 1076 | Wifi密码(15)                 | [查看题解](http://www.liuchuo.net/archives/4193)  |                                                              | 简单题                |
-| 1077 | 互评成绩计算(20)             | [查看题解](http://www.liuchuo.net/archives/4196)  |                                                              | 水题                  |
-| 1078 | 字符串压缩与解压(20)         | [查看题解](http://www.liuchuo.net/archives/4198)  |                                                              | 逻辑题                |
-| 1079 | 延迟的回文数(20)             | [查看题解](https://www.liuchuo.net/archives/4200) |                                                              | 逻辑题                |
-| 1080 | MOOC期终成绩(25)             | [查看题解](https://www.liuchuo.net/archives/4202) |                                                              | map映射，排序         |
-| 1081 | 检查密码(15)                 | [查看题解](https://www.liuchuo.net/archives/4639) |                                                              | string字符串          |
-| 1082 | 射击比赛 (20)                | [查看题解](https://www.liuchuo.net/archives/4642) |                                                              | 逻辑题                |
-| 1083 | 是否存在相等的差 (20)        | [查看题解](https://www.liuchuo.net/archives/4644) |                                                              | hash映射，map STL     |
-| 1084 | 外观数列 (20)                | [查看题解](https://www.liuchuo.net/archives/4646) |                                                              | String字符串处理      |
-| 1085 | PAT单位排行 (25)             | [查看题解](https://www.liuchuo.net/archives/4648) |                                                              | 排序，map STL         |
+| 1050 | 螺旋矩阵(25)                 | [暂无]()  | [暂无]() | 模拟                  |
+| 1051 | 复数乘法 (15)                |  [暂无]() | 模拟                  |
+| 1052 | 卖个萌 (20)                  |  [暂无]()  | [暂无]() | 字符串处理            |
+| 1053 | 住房空置率 (20)              |  [暂无]()  | [暂无]() | 模拟                  |
+| 1054 | 求平均值 (20)                |  [暂无]()  | [暂无]() | 字符串处理            |
+| 1055 | 集体照 (25)                  |  [暂无]()  | [暂无]() | 排序                  |
+| 1056 | 组合数的和(15)               | [暂无]()  |                                                              | 数学问题              |
+| 1057 | 数零壹(20)                   | [暂无]()  |                                                              | 进制转换              |
+| 1058 | 选择题(20)                   | [暂无]() |                                                              | 字符串处理            |
+| 1059 | C语言竞赛(20)                | [暂无]()  |                                                              | 逻辑题                |
+| 1060 | 爱丁顿数(25)                 | [暂无]()  |                                                              | 逻辑题                |
+| 1061 | 判断题(15)                   | [暂无]()  |                                                              | 逻辑题                |
+| 1062 | 最简分数(20)                 | [暂无]()  |                                                              | 分数化简              |
+| 1063 | 计算谱半径(20)               | [暂无]()  |                                                              | 逻辑题                |
+| 1064 | 朋友数(20)                   | [暂无]()  |       [暂无]()       | STL-set的使用         |
+| 1065 | 单身狗(25)                   | [暂无]()  |                                                              | 逻辑题，STL-set的使用 |
+| 1066 | 图像过滤(15)                 | [暂无]()  |                                                              | 逻辑题                |
+| 1067 | 试密码(20)                   | [暂无]()  |                                                              | 字符串                |
+| 1068 | 万绿丛中一点红(20)           | [暂无]()  |                                                              | 逻辑题                |
+| 1069 | 微博转发抽奖(20)             | [暂无]()  |                                                              | map映射               |
+| 1070 | 结绳(25)                     | [暂无]()  |                                                              | 排序，贪心            |
+| 1071 | 小赌怡情(15)                 | [暂无]()  |                                                              | 水题                  |
+| 1072 | 开学寄语(20)                 | [暂无]()  |                                                              | 简单题                |
+| 1073 | 多选题常见计分法(20)         | [暂无]()  |                                                              | 逻辑题                |
+| 1074 | 宇宙无敌加法器(20)           | [暂无]()  |                                                              | 逻辑题                |
+| 1075 | 链表元素分类(25)             | [暂无]()  |                                                              | 链表                  |
+| 1076 | Wifi密码(15)                 | [暂无]()  |                                                              | 简单题                |
+| 1077 | 互评成绩计算(20)             | [暂无]()  |                                                              | 水题                  |
+| 1078 | 字符串压缩与解压(20)         | [暂无]()  |                                                              | 逻辑题                |
+| 1079 | 延迟的回文数(20)             | [暂无]() |                                                              | 逻辑题                |
+| 1080 | MOOC期终成绩(25)             | [暂无]() |                                                              | map映射，排序         |
+| 1081 | 检查密码(15)                 | [暂无]() |                                                              | string字符串          |
+| 1082 | 射击比赛 (20)                | [暂无]() |                                                              | 逻辑题                |
+| 1083 | 是否存在相等的差 (20)        | [暂无]() |                                                              | hash映射，map STL     |
+| 1084 | 外观数列 (20)                | [暂无]() |                                                              | String字符串处理      |
+| 1085 | PAT单位排行 (25)             | [暂无]() |                                                              | 排序，map STL         |
 
 
-
-# PAT团体程序设计天梯赛GPLT题解
-
-|   ID   | Title           |                C/C++（附分析）                | 备注                    |
-| :----: | --------------- | :--------------------------------------: | --------------------- |
-| L1-001 | Hello World     | [查看题解](http://www.liuchuo.net/archives/2412) | 水题                    |
-| L1-002 | 打印沙漏            | [查看题解](http://www.liuchuo.net/archives/2415) | 图形打印                  |
-| L1-003 | 个位数统计           | [查看题解](http://www.liuchuo.net/archives/2427) | 字符串处理                 |
-| L1-004 | 计算摄氏温度          | [查看题解](http://www.liuchuo.net/archives/2417) | 数学问题                  |
-| L1-005 | 考试座位号           | [查看题解](http://www.liuchuo.net/archives/2420) | 查找元素                  |
-| L1-006 | 连续因子            | [查看题解](http://www.liuchuo.net/archives/1590) | 逻辑题                   |
-| L1-007 | 念数字             | [查看题解](http://www.liuchuo.net/archives/2429) | 字符串处理                 |
-| L1-008 | 求整数段和           | [查看题解](http://www.liuchuo.net/archives/2431) | 水题                    |
-| L1-009 | N个数求和           | [查看题解](http://www.liuchuo.net/archives/2083) | 分数的四则运算               |
-| L1-010 | 比较大小            | [查看题解](http://www.liuchuo.net/archives/1595) | 水题                    |
-| L1-011 | A-B             | [查看题解](http://www.liuchuo.net/archives/1597) | 字符串处理                 |
-| L1-012 | 计算指数            | [查看题解](http://www.liuchuo.net/archives/2433) | 水题                    |
-| L1-013 | 计算阶乘和           | [查看题解](http://www.liuchuo.net/archives/2435) | 水题                    |
-| L1-014 | 简单题             | [查看题解](http://www.liuchuo.net/archives/2422) | 水题                    |
-| L1-015 | 跟奥巴马一起画方块       | [查看题解](http://www.liuchuo.net/archives/1617) | 图形打印                  |
-| L1-016 | 查验身份证           | [查看题解](http://www.liuchuo.net/archives/1600) | 字符串处理                 |
-| L1-017 | 到底有多二           | [查看题解](http://www.liuchuo.net/archives/1602) | 数学问题                  |
-| L1-018 | 大笨钟             | [查看题解](http://www.liuchuo.net/archives/1604) | 字符串处理                 |
-| L1-019 | 谁先倒             | [查看题解](http://www.liuchuo.net/archives/1606) | 逻辑题                   |
-| L1-020 | 帅到没朋友           | [查看题解](http://www.liuchuo.net/archives/1613) | 集合set，STL的使用          |
-| L1-021 | 重要的话说三遍         | [查看题解](http://www.liuchuo.net/archives/2437) | 水题                    |
-| L1-022 | 奇偶分家            | [查看题解](http://www.liuchuo.net/archives/2439) | 逻辑判断                  |
-| L1-023 | 输出GPLT          | [查看题解](http://www.liuchuo.net/archives/1609) | 水题                    |
-| L1-024 | 后天              | [查看题解](http://www.liuchuo.net/archives/1611) | 日期处理                  |
-| L1-025 | 正整数A+B          | [查看题解](http://www.liuchuo.net/archives/1943) | 字符串处理                 |
-| L1-026 | I Love GPLT     | [查看题解](http://www.liuchuo.net/archives/1945) | 水题                    |
-| L1-027 | 出租              | [查看题解](http://www.liuchuo.net/archives/1949) | 不定长数组vector，STL的使用    |
-| L1-028 | 判断素数            | [查看题解](http://www.liuchuo.net/archives/1952) | 素数                    |
-| L1-029 | 是不是太胖了          | [查看题解](http://www.liuchuo.net/archives/1954) | 简单逻辑                  |
-| L1-030 | 一帮一             | [查看题解](http://www.liuchuo.net/archives/1959) | 排序                    |
-| L1-031 | 到底是不是太胖了        | [查看题解](http://www.liuchuo.net/archives/1957) | 简单逻辑                  |
-| L1-032 | Left-pad        | [查看题解](http://www.liuchuo.net/archives/1962) | 字符串处理                 |
-| L1-033 | 出生年             | [查看题解](http://www.liuchuo.net/archives/3814) | STL，集合set             |
-| L1-034 | 点赞              | [查看题解](http://www.liuchuo.net/archives/3816) | 逻辑题                   |
-| L1-035 | 情人节             | [查看题解](http://www.liuchuo.net/archives/3818) | 循环                    |
-| L1-036 | A乘以B            | [查看题解](http://www.liuchuo.net/archives/3822) | 水题                    |
-| L1-037 | A除以B            | [查看题解](http://www.liuchuo.net/archives/3820) | 逻辑题                   |
-| L1-038 | 新世界             | [查看题解](http://www.liuchuo.net/archives/3825) | 水题                    |
-| L1-039 | 古风排版            | [查看题解](http://www.liuchuo.net/archives/3827) | 逻辑题                   |
-| L1-040 | 最佳情侣身高          | [查看题解](http://www.liuchuo.net/archives/3829) | 逻辑题                   |
-| L2-001 | 紧急救援            | [查看题解](http://www.liuchuo.net/archives/2362) | Dijkstra算法            |
-| L2-002 | 链表去重            | [查看题解](http://www.liuchuo.net/archives/2125) | 链表                    |
-| L2-003 | 月饼              | [查看题解](http://www.liuchuo.net/archives/2424) | 贪心算法                  |
-| L2-004 | 这是二叉搜索树吗？       | [查看题解](http://www.liuchuo.net/archives/2155) | 二叉搜索树BST              |
-| L2-005 | 集合相似度           | [查看题解](http://www.liuchuo.net/archives/2079) | 集合set，STL的使用          |
-| L2-006 | 树的遍历            | [查看题解](http://www.liuchuo.net/archives/2093) | 树的遍历                  |
-| L2-007 | 家庭房产            | [查看题解](http://www.liuchuo.net/archives/2198) | 并查集                   |
-| L2-008 | 最长对称子串          | [查看题解](http://www.liuchuo.net/archives/2102) | 字符串处理，动态规划            |
-| L2-009 | 抢红包             | [查看题解](http://www.liuchuo.net/archives/2195) | 水题                    |
-| L2-010 | 排座位             | [查看题解](http://www.liuchuo.net/archives/2188) | 并查集                   |
-| L2-011 | 玩转二叉树           | [查看题解](http://www.liuchuo.net/archives/2096) | 二叉树的遍历                |
-| L2-012 | 关于堆的判断          | [查看题解](http://www.liuchuo.net/archives/2441) | heap sort（堆排序）        |
-| L2-013 | 红色警报            | [查看题解](http://www.liuchuo.net/archives/2365) | 深度优先搜索DFS，图的连通分量个数统计  |
-| L2-014 | 列车调度            | [查看题解](http://www.liuchuo.net/archives/1967) | 集合set，STL的使用          |
-| L2-015 | 互评成绩            | [查看题解](http://www.liuchuo.net/archives/1965) | 排序                    |
-| L2-016 | 愿天下有情人都是失散多年的兄妹 | [查看题解](http://www.liuchuo.net/archives/2316) | 广度优先搜索BFS             |
-| L2-017 | 人以群分            | [查看题解](http://www.liuchuo.net/archives/3831) | 排序                    |
-| L2-019 | 悄悄关注            | [查看题解](http://www.liuchuo.net/archives/3833) | 集合set                 |
-| L2-020 | 功夫传人            | [查看题解](http://www.liuchuo.net/archives/3835) | 深度优先搜索DFS             |
-| L3-001 | 凑零钱             | [查看题解](http://www.liuchuo.net/archives/2327) | 01背包，动态规划             |
-| L3-002 | 堆栈              | [查看题解](http://www.liuchuo.net/archives/2263) | 树状数组                  |
-| L3-003 | 社交集群            | [查看题解](http://www.liuchuo.net/archives/2185) | 并查集                   |
-| L3-004 | 肿瘤诊断            | [查看题解](http://www.liuchuo.net/archives/2309) | 广度优先搜索BFS             |
-| L3-005 | 垃圾箱分布           | [查看题解](http://www.liuchuo.net/archives/2378) | Dijkstra算法，最短路径       |
-| L3-007 | 天梯地图            | [查看题解](http://www.liuchuo.net/archives/2409) | Dijkstra算法 + DFS，最短路径 |
-| L3-008 | 喊山              | [查看题解](http://www.liuchuo.net/archives/2318) | 广度优先搜索BFS             |
-| L3-010 | 是否完全二叉搜索树       | [查看题解](http://www.liuchuo.net/archives/2164) | 完全二叉树                 |
-| L3-013 | 非常弹的球           | [查看题解](http://www.liuchuo.net/archives/3837) | 物理题                   |
-| L3-014 | 周游世界            | [查看题解](http://www.liuchuo.net/archives/3853) | 深度优先搜索DFS             |
-| L3-015 | 球队“食物链”         | [查看题解](http://www.liuchuo.net/archives/3839) | 深度优先搜索DFS             |
 
 # 致谢
 
-- 感谢[@JoyHwong](https://github.com/JoyHwong)提供的Java版本的题解
+- 感谢[@Liuchuo](https://github.com/JoyHwong)提供的README.md版本以及一些思路
 - 感谢[@聪明可爱的小学弟-谢民皆](https://github.com/xminjie)整理的README.md
-- 感谢[@littlesevenmo](https://github.com/littlesevenmo)为PAT甲级多次提供的更高效的解法
+- 感谢[@littlesevenmo](https://github.com/littlesevenmo)为PAT甲级多次提更高效的解法

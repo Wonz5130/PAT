@@ -254,6 +254,6 @@
 
 # 致谢
 
-- 感谢[@Liuchuo](https://github.com/JoyHwong)提供的README.md版本以及一些思路
+- 感谢[@柳婼学姐](https://github.com/JoyHwong)提供的README.md版本以及一些思路
 - 感谢[@聪明可爱的小学弟-谢民皆](https://github.com/xminjie)整理的README.md
 - 感谢[@littlesevenmo](https://github.com/littlesevenmo)为PAT甲级多次提更高效的解法

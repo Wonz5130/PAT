@@ -5,8 +5,7 @@
 
 ## 目录  
 - [PAT甲级题解](#pat甲级题解)  
-- [PAT乙级题解](#pat乙级题解)  
-- [PAT团体程序设计天梯赛GPLT题解](#pat团体程序设计天梯赛gplt题解)  
+- [PAT乙级题解](#pat乙级题解)   
 - [致谢](#致谢)  
 
 # PAT甲级题解  
@@ -167,24 +166,24 @@
 | :--: | ---------------------------- | :-----------------------------------------------: | :----------------------------------------------------------: | --------------------- |
 | 1001 | 害死人不偿命的(3n+1)猜想(15) |  [查看题解](https://blog.csdn.net/wonz5130/article/details/79585933)  | [暂无]() | 模拟                  |
 | 1002 | 写出这个数 (20)              |  [查看题解](https://blog.csdn.net/wonz5130/article/details/79534547)  | [暂无]() | 字符串处理            |
-| 1003 | 我要通过！(20)               |  [查看题解](http://www.liuchuo.net/archives/460)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1003/Main.java) | 数学题                |
+| 1003 | 我要通过！(20)               |  [暂无]()  | [暂无]() | 数学题                |
 | 1004 | 成绩排名 (20)                |  [查看题解](https://blog.csdn.net/wonz5130/article/details/81072638)  |                                                              | 查找元素              |
-| 1005 | 继续(3n+1)猜想 (25)          |  [查看题解](http://www.liuchuo.net/archives/455)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1005/Main.java) | Hash散列              |
+| 1005 | 继续(3n+1)猜想 (25)          |  [暂无]()  | [暂无]() | Hash散列              |
 | 1006 | 换个格式输出整数 (15)        |  [查看题解](https://blog.csdn.net/wonz5130/article/details/79684057)  |                                                              | 字符串处理            |
-| 1007 | 素数对猜想 (20)              |  [查看题解](http://www.liuchuo.net/archives/520)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1007/Main.java) | 素数                  |
+| 1007 | 素数对猜想 (20)              |  [暂无]()  | [暂无]() | 素数                  |
 | 1008 | 数组元素循环右移问题 (20)    |  [查看题解](https://blog.csdn.net/wonz5130/article/details/79829482)  | [暂无]() | 模拟                  |
 | 1009 | 说反话 (20)                  |  [查看题解](https://blog.csdn.net/wonz5130/article/details/81056481)  | [暂无]() | 字符串处理            |
 | 1010 | 一元多项式求导 (25)          |  [查看题解](https://blog.csdn.net/wonz5130/article/details/81071427)  | [暂无]() | 模拟                  |
 | 1011 | A+B和C (15)                  |  [查看题解](https://blog.csdn.net/wonz5130/article/details/79690156)  | [暂无]() | 模拟                  |
 | 1012 | 数字分类 (20)                |  [查看题解](https://blog.csdn.net/wonz5130/article/details/79837727)  |                                                              | 模拟                  |
-| 1013 | 数素数 (20)                  |  [查看题解](http://www.liuchuo.net/archives/530)  |                                                              | 素数                  |
-| 1014 | 福尔摩斯的约会 (20)          |  [查看题解](http://www.liuchuo.net/archives/532)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1014/Main.java) | 字符串处理            |
-| 1015 | 德才论 (25)                  |  [查看题解](http://www.liuchuo.net/archives/498)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1015/Main.java) | 排序                  |
+| 1013 | 数素数 (20)                  |  [暂无]()  |                                                              | 素数                  |
+| 1014 | 福尔摩斯的约会 (20)          |  [暂无]()  | [暂无]() | 字符串处理            |
+| 1015 | 德才论 (25)                  |  [暂无]()  | [暂无]() | 排序                  |
 | 1016 | 部分A+B (15)                 |  [查看题解](https://blog.csdn.net/wonz5130/article/details/79812875)  | [暂无]() | 模拟                  |
-| 1017 | A除以B (20)                  |  [查看题解](http://www.liuchuo.net/archives/537)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1017/Main.java) | 大整数运算            |
+| 1017 | A除以B (20)                  |  [暂无]()  | [暂无]() | 大整数运算            |
 | 1018 | 锤子剪刀布 (20)              |  [查看题解](https://blog.csdn.net/wonz5130/article/details/79844683)  | [暂无]() | 模拟                  |
-| 1019 | 数字黑洞 (20)                |  [查看题解](http://www.liuchuo.net/archives/541)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1019/Main.java) | 数学问题              |
-| 1020 | 月饼 (25)                    |  [查看题解](http://www.liuchuo.net/archives/543)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1020/Main.java) | 贪心算法              |
+| 1019 | 数字黑洞 (20)                |  [暂无]()  | [暂无]() | 数学问题              |
+| 1020 | 月饼 (25)                    |  [暂无]()  | [暂无]() | 贪心算法              |
 | 1021 | 个位数统计 (15)              |  [查看题解](http://www.liuchuo.net/archives/545)  |                                                              | 字符串处理            |
 | 1022 | D进制的A+B (20)              |  [查看题解](https://blog.csdn.net/wonz5130/article/details/79603706)  | [暂无]() | 进制转换              |
 | 1023 | 组个最小数 (20)              |  [查看题解](http://www.liuchuo.net/archives/549)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1023/Main.java) | 贪心算法              |
@@ -213,7 +212,7 @@
 | 1046 | 划拳(15)                     |  [查看题解](https://blog.csdn.net/wonz5130/article/details/79823312)  | [暂无]() | 模拟                  |
 | 1047 | 编程团体赛(20)               |  [查看题解](http://www.liuchuo.net/archives/586)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1047/Main.java) | Hash散列              |
 | 1048 | 数字加密(20)                 |  [查看题解](http://www.liuchuo.net/archives/465)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1048/Main.java) | 字符串处理            |
-| 1049 | 数列的片段和(20)             |  [查看题解](http://www.liuchuo.net/archives/448)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1049/Main.java) | 数学问题              |
+| 1049 | 数列的片段和(20)             |  [查看题解](https://blog.csdn.net/wonz5130/article/details/79944656)  | [暂无]() | 数学问题              |
 | 1050 | 螺旋矩阵(25)                 | [查看题解](http://www.liuchuo.net/archives/2070)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1050/Main.java) | 模拟                  |
 | 1051 | 复数乘法 (15)                |  [查看题解](http://www.liuchuo.net/archives/606)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1051/Main.java) | 模拟                  |
 | 1052 | 卖个萌 (20)                  |  [查看题解](http://www.liuchuo.net/archives/613)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1052/Main.java) | 字符串处理            |

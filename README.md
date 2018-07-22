@@ -162,7 +162,7 @@
 
 # PAT乙级题解
 
-|  ID  | Title                        |                       C/C++                       |                             Java                             | 备注                  |
+|  ID  | Title                        |                       C/C++                       |                             Python                             | 备注                  |
 | :--: | ---------------------------- | :-----------------------------------------------: | :----------------------------------------------------------: | --------------------- |
 | 1001 | 害死人不偿命的(3n+1)猜想(15) |  [查看题解](https://blog.csdn.net/wonz5130/article/details/79585933)  | [暂无]() | 模拟                  |
 | 1002 | 写出这个数 (20)              |  [查看题解](https://blog.csdn.net/wonz5130/article/details/79534547)  | [暂无]() | 字符串处理            |
@@ -254,6 +254,5 @@
 
 # 致谢
 
-- 感谢[@柳婼学姐](https://github.com/JoyHwong)提供的README.md版本以及一些思路
-- 感谢[@聪明可爱的小学弟-谢民皆](https://github.com/xminjie)整理的README.md
-- 感谢[@littlesevenmo](https://github.com/littlesevenmo)为PAT甲级多次提更高效的解法
+- 感谢[@柳婼学姐](https://github.com/liuchuo)提供的README.md版本以及一些思路
+- 感谢[@晴神胡凡]()的《算法笔记》

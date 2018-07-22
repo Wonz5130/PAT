@@ -128,28 +128,28 @@
 | 1113 | Integer Set Partition (25)          | [暂无](                                       )  | 排序                               |
 | 1114 | Family Property (25)                | [暂无](                                       )  | 并查集                             |
 | 1115 | Counting Nodes in a BST (30)        | [暂无](                                       )  | 二叉树的遍历，DFS                  |
-| 1116 | Come on! Let’s C (20)               | [查看题解](http://www.liuchuo.net/archives/2476)  | 简单逻辑题                         |
-| 1117 | Eddington Number(25)                | [查看题解](http://www.liuchuo.net/archives/2478)  | 简单逻辑题                         |
-| 1118 | Birds in Forest (25)                | [查看题解](http://www.liuchuo.net/archives/2482)  | 并查集                             |
-| 1119 | Pre- and Post-order Traversals (30) | [查看题解](http://www.liuchuo.net/archives/2484)  | 树的遍历，前序后序转中序           |
-| 1120 | Friend Numbers (20)                 | [查看题解](http://www.liuchuo.net/archives/2901)  | set的应用                          |
-| 1121 | Damn Single (25)                    | [查看题解](http://www.liuchuo.net/archives/2734)  | set的应用                          |
-| 1122 | Hamiltonian Cycle (25)              | [查看题解](http://www.liuchuo.net/archives/2748)  | 图论                               |
-| 1123 | Is It a Complete AVL Tree (30)      | [查看题解](http://www.liuchuo.net/archives/2732)  | AVL树                              |
-| 1124 | Raffle for Weibo Followers (20)     | [查看题解](http://www.liuchuo.net/archives/3738)  | map映射                            |
-| 1125 | Chain the Ropes (25)                | [查看题解](http://www.liuchuo.net/archives/3741)  | 排序，贪心                         |
-| 1126 | Eulerian Path (25)                  | [查看题解](http://www.liuchuo.net/archives/3751)  | 连通图                             |
-| 1127 | ZigZagging on a Tree (30)           | [查看题解](http://www.liuchuo.net/archives/3758)  | 中序后序建树，层序遍历             |
-| 1128 | N Queens Puzzle (20)                | [查看题解](http://www.liuchuo.net/archives/3796)  | 逻辑题                             |
-| 1129 | Recommendation System (25)          | [查看题解](http://www.liuchuo.net/archives/3848)  | set的应用，运算符重载              |
-| 1130 | Infix Expression (25)               | [查看题解](http://www.liuchuo.net/archives/3798)  | dfs深度优先搜索                    |
-| 1131 | Subway Map (30)                     | [查看题解](http://www.liuchuo.net/archives/3850)  | dfs深度优先搜索                    |
-| 1132 | Cut Integer (20)                    | [查看题解](https://www.liuchuo.net/archives/4090) | 数学问题                           |
-| 1133 | Splitting A Linked List (25)        | [查看题解](https://www.liuchuo.net/archives/4092) | 链表                               |
-| 1134 | Vertex Cover (25)                   | [查看题解](https://www.liuchuo.net/archives/4096) | hash散列                           |
-| 1135 | Is It A Red-Black Tree (30)         | [查看题解](https://www.liuchuo.net/archives/4099) | 红黑树                             |
-| 1136 | A Delayed Palindrome (20)           | [查看题解](https://www.liuchuo.net/archives/4204) | 水题                               |
-| 1137 | Final Grading (25)                  | [查看题解](https://www.liuchuo.net/archives/4206) | map映射，排序                      |
+| 1116 | Come on! Let’s C (20)               | [暂无](                                       )  | 简单逻辑题                         |
+| 1117 | Eddington Number(25)                | [暂无](                                       )  | 简单逻辑题                         |
+| 1118 | Birds in Forest (25)                | [暂无](                                       )  | 并查集                             |
+| 1119 | Pre- and Post-order Traversals (30) | [暂无](                                       )  | 树的遍历，前序后序转中序           |
+| 1120 | Friend Numbers (20)                 | [暂无](                                       )  | set的应用                          |
+| 1121 | Damn Single (25)                    | [暂无](                                       )  | set的应用                          |
+| 1122 | Hamiltonian Cycle (25)              | [暂无](                                       )  | 图论                               |
+| 1123 | Is It a Complete AVL Tree (30)      | [暂无](                                       )  | AVL树                              |
+| 1124 | Raffle for Weibo Followers (20)     | [暂无](                                       )  | map映射                            |
+| 1125 | Chain the Ropes (25)                | [暂无](                                       )  | 排序，贪心                         |
+| 1126 | Eulerian Path (25)                  | [暂无](                                       )  | 连通图                             |
+| 1127 | ZigZagging on a Tree (30)           | [暂无](                                       )  | 中序后序建树，层序遍历             |
+| 1128 | N Queens Puzzle (20)                | [暂无](                                       )  | 逻辑题                             |
+| 1129 | Recommendation System (25)          | [暂无](                                       )  | set的应用，运算符重载              |
+| 1130 | Infix Expression (25)               | [暂无](                                       )  | dfs深度优先搜索                    |
+| 1131 | Subway Map (30)                     | [暂无](                                       )  | dfs深度优先搜索                    |
+| 1132 | Cut Integer (20)                    | [暂无](                                       ) | 数学问题                           |
+| 1133 | Splitting A Linked List (25)        | [暂无](                                       ) | 链表                               |
+| 1134 | Vertex Cover (25)                   | [暂无](                                       ) | hash散列                           |
+| 1135 | Is It A Red-Black Tree (30)         | [暂无](                                       ) | 红黑树                             |
+| 1136 | A Delayed Palindrome (20)           | [暂无](                                       ) | 水题                               |
+| 1137 | Final Grading (25)                  | [暂无](                                       ) | map映射，排序                      |
 | 1138 | Postorder Traversal (25)            | [查看题解](https://www.liuchuo.net/archives/4208) | 树的遍历，前序中序转后序           |
 | 1139 | First Contact (30)                  | [查看题解](https://www.liuchuo.net/archives/4210) | 水题                               |
 | 1140 | Look-and-say Sequence (20)          | [查看题解](https://www.liuchuo.net/archives/4609) | 字符串处理                         |

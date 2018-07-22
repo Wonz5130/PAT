@@ -184,24 +184,24 @@
 | 1018 | 锤子剪刀布 (20)              |  [查看题解](https://blog.csdn.net/wonz5130/article/details/79844683)  | [暂无]() | 模拟                  |
 | 1019 | 数字黑洞 (20)                |  [暂无]()  | [暂无]() | 数学问题              |
 | 1020 | 月饼 (25)                    |  [暂无]()  | [暂无]() | 贪心算法              |
-| 1021 | 个位数统计 (15)              |  [查看题解](http://www.liuchuo.net/archives/545)  |                                                              | 字符串处理            |
+| 1021 | 个位数统计 (15)              |  [暂无]()  |                                                              | 字符串处理            |
 | 1022 | D进制的A+B (20)              |  [查看题解](https://blog.csdn.net/wonz5130/article/details/79603706)  | [暂无]() | 进制转换              |
-| 1023 | 组个最小数 (20)              |  [查看题解](http://www.liuchuo.net/archives/549)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1023/Main.java) | 贪心算法              |
-| 1024 | 科学计数法 (20)              |  [查看题解](http://www.liuchuo.net/archives/551)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1024/Main.java) | 字符串处理            |
-| 1025 | 反转链表 (25)                |  [查看题解](http://www.liuchuo.net/archives/463)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1025/Main.java) | 链表                  |
+| 1023 | 组个最小数 (20)              |  [暂无]()  | [暂无]() | 贪心算法              |
+| 1024 | 科学计数法 (20)              |  [暂无]()  | [暂无]() | 字符串处理            |
+| 1025 | 反转链表 (25)                |  [暂无]()  | [暂无]() | 链表                  |
 | 1026 | 程序运行时间(15)             |  [查看题解](https://blog.csdn.net/wonz5130/article/details/79813416)  | [暂无]() | 模拟                  |
 | 1027 | 打印沙漏(20)                 |  [查看题解](https://blog.csdn.net/wonz5130/article/details/81149996)  | [暂无]() | 图形打印              |
 | 1028 | 人口普查(20)                 |  [查看题解](https://blog.csdn.net/wonz5130/article/details/81149001)  | [暂无]() | 查找元素              |
-| 1029 | 旧键盘(20)                   |  [查看题解](http://www.liuchuo.net/archives/559)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1029/Main.java) | Hash散列              |
+| 1029 | 旧键盘(20)                   |  [暂无]()  | [暂无]() | Hash散列              |
 | 1030 | 完美数列(25)                 |  [查看题解](https://blog.csdn.net/wonz5130/article/details/81023712)  | [暂无]() | two pointers          |
-| 1031 | 查验身份证(15)               |  [查看题解](http://www.liuchuo.net/archives/561)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1031/Main.java) | 字符串处理            |
+| 1031 | 查验身份证(15)               |  [暂无]()  | [暂无]() | 字符串处理            |
 | 1032 | 挖掘机技术哪家强(20)         |  [查看题解](https://blog.csdn.net/wonz5130/article/details/81056126)  | [暂无]() | 查找元素              |
-| 1033 | 旧键盘打字(20)               |  [查看题解](http://www.liuchuo.net/archives/490)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1033/Main.java) | Hash散列              |
-| 1034 | 有理数四则运算(20)           |  [查看题解](http://www.liuchuo.net/archives/492)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1034/Main.java) | 分数的四则运算        |
-| 1035 | 插入与归并(25)               |  [查看题解](http://www.liuchuo.net/archives/503)  |                                                              | two pointers          |
+| 1033 | 旧键盘打字(20)               |  [暂无]()  | [暂无]() | Hash散列              |
+| 1034 | 有理数四则运算(20)           |  [暂无]()  | [暂无]() | 分数的四则运算        |
+| 1035 | 插入与归并(25)               |  [暂无]()  |                                                              | two pointers          |
 | 1036 | 跟奥巴马一起编程(15)         |  [查看题解](https://blog.csdn.net/wonz5130/article/details/79603171)  | [暂无]() | 图形打印              |
-| 1037 | 在霍格沃茨找零钱（20)        |  [查看题解](http://www.liuchuo.net/archives/567)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1037/Main.java) | 进制转换              |
-| 1038 | 统计同成绩学生(20)           |  [查看题解](http://www.liuchuo.net/archives/569)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1038/Main.java) | Hash散列              |
+| 1037 | 在霍格沃茨找零钱（20)        |  [暂无]()  | [暂无]() | 进制转换              |
+| 1038 | 统计同成绩学生(20)           |  [暂无]()  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1038/Main.java) | Hash散列              |
 | 1039 | 到底买不买 (20)              |  [查看题解](http://www.liuchuo.net/archives/571)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1039/Main.java) | Hash散列              |
 | 1040 | 有几个PAT（25)               |  [查看题解](http://www.liuchuo.net/archives/573)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1040/Main.java) | 逻辑题                |
 | 1041 | 考试座位号(15)               |  [查看题解](https://blog.csdn.net/wonz5130/article/details/81071959)  | [暂无]() | 查找元素              |

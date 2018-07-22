@@ -150,16 +150,16 @@
 | 1135 | Is It A Red-Black Tree (30)         | [暂无](                                       ) | 红黑树                             |
 | 1136 | A Delayed Palindrome (20)           | [暂无](                                       ) | 水题                               |
 | 1137 | Final Grading (25)                  | [暂无](                                       ) | map映射，排序                      |
-| 1138 | Postorder Traversal (25)            | [查看题解](https://www.liuchuo.net/archives/4208) | 树的遍历，前序中序转后序           |
-| 1139 | First Contact (30)                  | [查看题解](https://www.liuchuo.net/archives/4210) | 水题                               |
-| 1140 | Look-and-say Sequence (20)          | [查看题解](https://www.liuchuo.net/archives/4609) | 字符串处理                         |
-| 1141 | PAT Ranking of Institutions (25)    | [查看题解](https://www.liuchuo.net/archives/4612) | 排序，map STL                      |
-| 1142 | Maximal Clique (25)                 | [查看题解](https://www.liuchuo.net/archives/4614) | 图论，无向完全图                   |
-| 1143 | Lowest Common Ancestor (30)         | [查看题解](https://www.liuchuo.net/archives/4616) | 水题                               |
-| 1144 | The Missing Number (20)             | [查看题解](https://www.liuchuo.net/archives/4662) | STL，map                           |
-| 1145 | Hashing – Average Search Time (25)  | [查看题解](https://www.liuchuo.net/archives/4671) | 哈希映射，哈希表，平方探测法       |
-| 1146 | Topological Order (25)              | [查看题解](https://www.liuchuo.net/archives/4665) | 拓扑排序                           |
-| 1147 | Heaps (30)                          | [查看题解](https://www.liuchuo.net/archives/4667) | 堆，树的遍历                       |
+| 1138 | Postorder Traversal (25)            | [暂无](                                       ) | 树的遍历，前序中序转后序           |
+| 1139 | First Contact (30)                  | [暂无](                                       ) | 水题                               |
+| 1140 | Look-and-say Sequence (20)          | [暂无](                                       ) | 字符串处理                         |
+| 1141 | PAT Ranking of Institutions (25)    | [暂无](                                       ) | 排序，map STL                      |
+| 1142 | Maximal Clique (25)                 | [暂无](                                       ) | 图论，无向完全图                   |
+| 1143 | Lowest Common Ancestor (30)         | [暂无](                                       ) | 水题                               |
+| 1144 | The Missing Number (20)             | [暂无](                                       ) | STL，map                           |
+| 1145 | Hashing – Average Search Time (25)  | [暂无](                                       ) | 哈希映射，哈希表，平方探测法       |
+| 1146 | Topological Order (25)              | [暂无](                                       ) | 拓扑排序                           |
+| 1147 | Heaps (30)                          | [暂无](                                       ) | 堆，树的遍历                       |
 
 # PAT乙级题解
 
@@ -168,13 +168,13 @@
 | 1001 | 害死人不偿命的(3n+1)猜想(15) |  [查看题解](http://www.liuchuo.net/archives/510)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1001/Main.java) | 模拟                  |
 | 1002 | 写出这个数 (20)              |  [查看题解](http://www.liuchuo.net/archives/513)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1002/Main.java) | 字符串处理            |
 | 1003 | 我要通过！(20)               |  [查看题解](http://www.liuchuo.net/archives/460)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1003/Main.java) | 数学题                |
-| 1004 | 成绩排名 (20)                |  [查看题解](http://www.liuchuo.net/archives/516)  |                                                              | 查找元素              |
+| 1004 | 成绩排名 (20)                |  [查看题解](https://blog.csdn.net/wonz5130/article/details/81072638)  |                                                              | 查找元素              |
 | 1005 | 继续(3n+1)猜想 (25)          |  [查看题解](http://www.liuchuo.net/archives/455)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1005/Main.java) | Hash散列              |
 | 1006 | 换个格式输出整数 (15)        |  [查看题解](http://www.liuchuo.net/archives/518)  |                                                              | 字符串处理            |
 | 1007 | 素数对猜想 (20)              |  [查看题解](http://www.liuchuo.net/archives/520)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1007/Main.java) | 素数                  |
 | 1008 | 数组元素循环右移问题 (20)    |  [查看题解](http://www.liuchuo.net/archives/522)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1008/Main.java) | 模拟                  |
-| 1009 | 说反话 (20)                  |  [查看题解](http://www.liuchuo.net/archives/524)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1009/Main.java) | 字符串处理            |
-| 1010 | 一元多项式求导 (25)          |  [查看题解](http://www.liuchuo.net/archives/526)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1010/Main.java) | 模拟                  |
+| 1009 | 说反话 (20)                  |  [查看题解](https://blog.csdn.net/wonz5130/article/details/81056481)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1009/Main.java) | 字符串处理            |
+| 1010 | 一元多项式求导 (25)          |  [查看题解](https://blog.csdn.net/wonz5130/article/details/81071427)  | [暂无]() | 模拟                  |
 | 1011 | A+B和C (15)                  |  [查看题解](http://www.liuchuo.net/archives/822)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1011/Main.java) | 模拟                  |
 | 1012 | 数字分类 (20)                |  [查看题解](http://www.liuchuo.net/archives/528)  |                                                              | 模拟                  |
 | 1013 | 数素数 (20)                  |  [查看题解](http://www.liuchuo.net/archives/530)  |                                                              | 素数                  |
@@ -191,12 +191,12 @@
 | 1024 | 科学计数法 (20)              |  [查看题解](http://www.liuchuo.net/archives/551)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1024/Main.java) | 字符串处理            |
 | 1025 | 反转链表 (25)                |  [查看题解](http://www.liuchuo.net/archives/463)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1025/Main.java) | 链表                  |
 | 1026 | 程序运行时间(15)             |  [查看题解](http://www.liuchuo.net/archives/553)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1026/Main.java) | 模拟                  |
-| 1027 | 打印沙漏(20)                 |  [查看题解](http://www.liuchuo.net/archives/555)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1027/Main.java) | 图形打印              |
-| 1028 | 人口普查(20)                 |  [查看题解](http://www.liuchuo.net/archives/557)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1028/Main.java) | 查找元素              |
+| 1027 | 打印沙漏(20)                 |  [查看题解](https://blog.csdn.net/wonz5130/article/details/81149996)  | [暂无]() | 图形打印              |
+| 1028 | 人口普查(20)                 |  [查看题解](https://blog.csdn.net/wonz5130/article/details/81149001)  | [暂无]() | 查找元素              |
 | 1029 | 旧键盘(20)                   |  [查看题解](http://www.liuchuo.net/archives/559)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1029/Main.java) | Hash散列              |
-| 1030 | 完美数列(25)                 |  [查看题解](http://www.liuchuo.net/archives/500)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1030/Main.java) | two pointers          |
+| 1030 | 完美数列(25)                 |  [查看题解](https://blog.csdn.net/wonz5130/article/details/81023712)  | [暂无]() | two pointers          |
 | 1031 | 查验身份证(15)               |  [查看题解](http://www.liuchuo.net/archives/561)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1031/Main.java) | 字符串处理            |
-| 1032 | 挖掘机技术哪家强(20)         |  [查看题解](http://www.liuchuo.net/archives/563)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1032/Main.java) | 查找元素              |
+| 1032 | 挖掘机技术哪家强(20)         |  [查看题解](https://blog.csdn.net/wonz5130/article/details/81056126)  | [暂无]() | 查找元素              |
 | 1033 | 旧键盘打字(20)               |  [查看题解](http://www.liuchuo.net/archives/490)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1033/Main.java) | Hash散列              |
 | 1034 | 有理数四则运算(20)           |  [查看题解](http://www.liuchuo.net/archives/492)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1034/Main.java) | 分数的四则运算        |
 | 1035 | 插入与归并(25)               |  [查看题解](http://www.liuchuo.net/archives/503)  |                                                              | two pointers          |
@@ -205,7 +205,7 @@
 | 1038 | 统计同成绩学生(20)           |  [查看题解](http://www.liuchuo.net/archives/569)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1038/Main.java) | Hash散列              |
 | 1039 | 到底买不买 (20)              |  [查看题解](http://www.liuchuo.net/archives/571)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1039/Main.java) | Hash散列              |
 | 1040 | 有几个PAT（25)               |  [查看题解](http://www.liuchuo.net/archives/573)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1040/Main.java) | 逻辑题                |
-| 1041 | 考试座位号(15)               |  [查看题解](http://www.liuchuo.net/archives/575)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1041/Main.java) | 查找元素              |
+| 1041 | 考试座位号(15)               |  [查看题解](https://blog.csdn.net/wonz5130/article/details/81071959)  | [暂无]() | 查找元素              |
 | 1042 | 字符统计(20)                 |  [查看题解](http://www.liuchuo.net/archives/577)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1042/Main.java) | Hash散列              |
 | 1043 | 输出PATest(20)               |  [查看题解](http://www.liuchuo.net/archives/579)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1043/Main.java) | Hash散列              |
 | 1044 | 火星数字(20)                 |  [查看题解](http://www.liuchuo.net/archives/581)  | [查看题解](https://github.com/JoyHwong/PAT-Solutions/blob/master/Java/Basic/basicLevel1044/Main.java) | map映射，STL的使用    |

@@ -73,61 +73,61 @@
 | 1058 | A+B in Hogwarts (20)                | [暂无](                                       )  | 进制转换                           |
 | 1059 | Prime Factors (25)                  | [暂无](                                       )  | 素数表的建立                       |
 | 1060 | Are They Equal (25)                 | [暂无](                                       )  | 科学计数法                         |
-| 1061 | Dating (20)                         | [查看题解](http://www.liuchuo.net/archives/1915)  | 字符串处理                         |
-| 1062 | Talent and Virtue (25)              | [查看题解](http://www.liuchuo.net/archives/2068)  | 排序                               |
-| 1063 | Set Similarity (25)                 | [查看题解](http://www.liuchuo.net/archives/2106)  | 集合set，STL的使用                 |
-| 1064 | Complete Binary Search Tree (30)    | [查看题解](http://www.liuchuo.net/archives/2161)  | 二叉查找树BST                      |
+| 1061 | Dating (20)                         | [暂无](                                       )  | 字符串处理                         |
+| 1062 | Talent and Virtue (25)              | [暂无](                                       )  | 排序                               |
+| 1063 | Set Similarity (25)                 | [暂无](                                       )  | 集合set，STL的使用                 |
+| 1064 | Complete Binary Search Tree (30)    | [暂无](                                       )  | 二叉查找树BST                      |
 | 1065 | A+B and C (64bit) (20)              | [查看题解](https://blog.csdn.net/wonz5130/article/details/79888226)  | 模拟                               |
-| 1066 | Root of AVL Tree (25)               | [查看题解](http://www.liuchuo.net/archives/2178)  | 平衡二叉树（AVL树）                |
-| 1067 | Sort with Swap(0,*) (25)            | [查看题解](http://www.liuchuo.net/archives/2301)  | 贪心算法                           |
-| 1068 | Find More Coins (30)                | [查看题解](http://www.liuchuo.net/archives/2323)  | 01背包，动态规划                   |
-| 1069 | The Black Hole of Numbers (20)      | [查看题解](http://www.liuchuo.net/archives/2468)  | 数学问题                           |
-| 1070 | Mooncake (25)                       | [查看题解](http://www.liuchuo.net/archives/1912)  | 贪心算法                           |
-| 1071 | Speech Patterns (25)                | [查看题解](http://www.liuchuo.net/archives/2257)  | map映射，STL的使用                 |
-| 1072 | Gas Station (30)                    | [查看题解](http://www.liuchuo.net/archives/2376)  | Dijkstra算法                       |
-| 1073 | Scientific Notation (20)            | [查看题解](http://www.liuchuo.net/archives/2061)  | 字符串处理                         |
-| 1074 | Reversing Linked List (25)          | [查看题解](http://www.liuchuo.net/archives/1910)  | 链表                               |
-| 1075 | PAT Judge (25)                      | [查看题解](http://www.liuchuo.net/archives/2260)  | 排序                               |
-| 1076 | Forwards on Weibo (30)              | [查看题解](http://www.liuchuo.net/archives/2334)  | 图的遍历，BFS                      |
-| 1077 | Kuchiguse (20)                      | [查看题解](http://www.liuchuo.net/archives/2065)  | 字符串处理                         |
-| 1078 | Hashing (25)                        | [查看题解](http://www.liuchuo.net/archives/2297)  | 二次方探查法                       |
-| 1079 | Total Sales of Supply Chain (25)    | [查看题解](http://www.liuchuo.net/archives/2212)  | DFS，BFS，树的遍历                 |
-| 1080 | Graduate Admission (30)             | [查看题解](http://www.liuchuo.net/archives/2453)  | 排序                               |
-| 1081 | Rational Sum (20)                   | [查看题解](http://www.liuchuo.net/archives/2108)  | 分数的四则运算                     |
-| 1082 | Read Number in Chinese (25)         | [查看题解](http://www.liuchuo.net/archives/2204)  | 字符串处理                         |
-| 1083 | List Grades (25)                    | [查看题解](http://www.liuchuo.net/archives/2128)  | 排序                               |
-| 1084 | Broken Keyboard (20)                |  [查看题解](http://www.liuchuo.net/archives/452)  | Hash散列                           |
+| 1066 | Root of AVL Tree (25)               | [暂无](                                       )  | 平衡二叉树（AVL树）                |
+| 1067 | Sort with Swap(0,*) (25)            | [暂无](                                       )  | 贪心算法                           |
+| 1068 | Find More Coins (30)                | [暂无](                                       )  | 01背包，动态规划                   |
+| 1069 | The Black Hole of Numbers (20)      | [暂无](                                       )  | 数学问题                           |
+| 1070 | Mooncake (25)                       | [暂无](                                       )  | 贪心算法                           |
+| 1071 | Speech Patterns (25)                | [暂无](                                       )  | map映射，STL的使用                 |
+| 1072 | Gas Station (30)                    | [暂无](                                       )  | Dijkstra算法                       |
+| 1073 | Scientific Notation (20)            | [暂无](                                       )  | 字符串处理                         |
+| 1074 | Reversing Linked List (25)          | [暂无](                                       )  | 链表                               |
+| 1075 | PAT Judge (25)                      | [暂无](                                       )  | 排序                               |
+| 1076 | Forwards on Weibo (30)              | [暂无](                                       )  | 图的遍历，BFS                      |
+| 1077 | Kuchiguse (20)                      | [暂无](                                       )  | 字符串处理                         |
+| 1078 | Hashing (25)                        | [暂无](                                       )  | 二次方探查法                       |
+| 1079 | Total Sales of Supply Chain (25)    | [暂无](                                       )  | DFS，BFS，树的遍历                 |
+| 1080 | Graduate Admission (30)             | [暂无](                                       )  | 排序                               |
+| 1081 | Rational Sum (20)                   | [暂无](                                       )  | 分数的四则运算                     |
+| 1082 | Read Number in Chinese (25)         | [暂无](                                       )  | 字符串处理                         |
+| 1083 | List Grades (25)                    | [暂无](                                       )  | 排序                               |
+| 1084 | Broken Keyboard (20)                |  [暂无](                                       )  | Hash散列                           |
 | 1085 | Perfect Sequence (25)               | [查看题解](https://blog.csdn.net/wonz5130/article/details/81023744)  | 二分，two pointers                 |
-| 1086 | Tree Traversals Again (25)          | [查看题解](http://www.liuchuo.net/archives/2168)  | 树的遍历                           |
-| 1087 | All Roads Lead to Rome (30)         | [查看题解](http://www.liuchuo.net/archives/2399)  | Dijkstra算法 + DFS，最短路径       |
-| 1088 | Rational Arithmetic (20)            | [查看题解](http://www.liuchuo.net/archives/1906)  | 分数的四则运算                     |
-| 1089 | Insert or Merge (25)                | [查看题解](http://www.liuchuo.net/archives/1902)  | two pointers                       |
-| 1090 | Highest Price in Supply Chain (25)  | [查看题解](http://www.liuchuo.net/archives/2465)  | 树的遍历                           |
-| 1091 | Acute Stroke (30)                   | [查看题解](http://www.liuchuo.net/archives/2307)  | 广度优先搜索BFS                    |
-| 1092 | To Buy or Not to Buy (20)           | [查看题解](http://www.liuchuo.net/archives/1898)  | Hash散列                           |
-| 1093 | Count PAT’s (25)                    | [查看题解](http://www.liuchuo.net/archives/1896)  | 逻辑题                             |
-| 1094 | The Largest Generation (25)         | [查看题解](http://www.liuchuo.net/archives/2223)  | BFS，DFS，树的遍历                 |
-| 1095 | Cars on Campus (30)                 | [查看题解](http://www.liuchuo.net/archives/2951)  | map的用法，排序                    |
-| 1096 | Consecutive Factors (20)            | [查看题解](http://www.liuchuo.net/archives/2110)  | 逻辑题                             |
-| 1097 | Deduplication on a Linked List (25) | [查看题解](http://www.liuchuo.net/archives/2118)  | 链表                               |
-| 1098 | Insertion or Heap Sort (25)         | [查看题解](http://www.liuchuo.net/archives/2273)  | heap sort（堆排序）                |
-| 1099 | Build A Binary Search Tree (30)     | [查看题解](http://www.liuchuo.net/archives/2173)  | 二叉查找树BST                      |
-| 1100 | Mars Numbers (20)                   | [查看题解](http://www.liuchuo.net/archives/1892)  | map映射，STL的使用                 |
-| 1101 | Quick Sort (25)                     | [查看题解](http://www.liuchuo.net/archives/1917)  | 快速排序                           |
-| 1102 | Invert a Binary Tree (25)           | [查看题解](http://www.liuchuo.net/archives/2166)  | 树的遍历                           |
-| 1103 | Integer Factorization (30)          | [查看题解](http://www.liuchuo.net/archives/2451)  | 深度优先搜索DFS                    |
-| 1104 | Sum of Number Segments (20)         | [查看题解](http://www.liuchuo.net/archives/1921)  | 数学问题                           |
-| 1105 | Spiral Matrix (25)                  | [查看题解](http://www.liuchuo.net/archives/2073)  | 模拟                               |
-| 1106 | Lowest Price in Supply Chain (25)   | [查看题解](http://www.liuchuo.net/archives/2226)  | DFS，BFS，树的遍历                 |
-| 1107 | Social Clusters (30)                | [查看题解](http://www.liuchuo.net/archives/2183)  | 并查集                             |
-| 1108 | Finding Average (20)                | [查看题解](http://www.liuchuo.net/archives/1924)  | 字符串处理                         |
-| 1109 | Group Photo (25)                    | [查看题解](http://www.liuchuo.net/archives/1926)  | 逻辑题                             |
-| 1110 | Complete Binary Tree (25)           | [查看题解](http://www.liuchuo.net/archives/2158)  | 完全二叉树                         |
-| 1111 | Online Map (30)                     | [查看题解](http://www.liuchuo.net/archives/2407)  | Dijkstra算法 + DFS                 |
-| 1112 | Stucked Keyboard (20)               | [查看题解](http://www.liuchuo.net/archives/2075)  | map映射，STL的使用                 |
-| 1113 | Integer Set Partition (25)          | [查看题解](http://www.liuchuo.net/archives/2299)  | 排序                               |
-| 1114 | Family Property (25)                | [查看题解](http://www.liuchuo.net/archives/2201)  | 并查集                             |
-| 1115 | Counting Nodes in a BST (30)        | [查看题解](http://www.liuchuo.net/archives/2235)  | 二叉树的遍历，DFS                  |
+| 1086 | Tree Traversals Again (25)          | [暂无](                                       )  | 树的遍历                           |
+| 1087 | All Roads Lead to Rome (30)         | [暂无](                                       )  | Dijkstra算法 + DFS，最短路径       |
+| 1088 | Rational Arithmetic (20)            | [暂无](                                       )  | 分数的四则运算                     |
+| 1089 | Insert or Merge (25)                | [暂无](                                       )  | two pointers                       |
+| 1090 | Highest Price in Supply Chain (25)  | [暂无](                                       )  | 树的遍历                           |
+| 1091 | Acute Stroke (30)                   | [暂无](                                       )  | 广度优先搜索BFS                    |
+| 1092 | To Buy or Not to Buy (20)           | [暂无](                                       )  | Hash散列                           |
+| 1093 | Count PAT’s (25)                    | [暂无](                                       )  | 逻辑题                             |
+| 1094 | The Largest Generation (25)         | [暂无](                                       )  | BFS，DFS，树的遍历                 |
+| 1095 | Cars on Campus (30)                 | [暂无](                                       )  | map的用法，排序                    |
+| 1096 | Consecutive Factors (20)            | [暂无](                                       )  | 逻辑题                             |
+| 1097 | Deduplication on a Linked List (25) | [暂无](                                       )  | 链表                               |
+| 1098 | Insertion or Heap Sort (25)         | [暂无](                                       )  | heap sort（堆排序）                |
+| 1099 | Build A Binary Search Tree (30)     | [暂无](                                       )  | 二叉查找树BST                      |
+| 1100 | Mars Numbers (20)                   | [暂无](                                       )  | map映射，STL的使用                 |
+| 1101 | Quick Sort (25)                     | [暂无](                                       )  | 快速排序                           |
+| 1102 | Invert a Binary Tree (25)           | [暂无](                                       )  | 树的遍历                           |
+| 1103 | Integer Factorization (30)          | [暂无](                                       )  | 深度优先搜索DFS                    |
+| 1104 | Sum of Number Segments (20)         | [暂无](                                       )  | 数学问题                           |
+| 1105 | Spiral Matrix (25)                  | [暂无](                                       )  | 模拟                               |
+| 1106 | Lowest Price in Supply Chain (25)   | [暂无](                                       )  | DFS，BFS，树的遍历                 |
+| 1107 | Social Clusters (30)                | [暂无](                                       )  | 并查集                             |
+| 1108 | Finding Average (20)                | [暂无](                                       )  | 字符串处理                         |
+| 1109 | Group Photo (25)                    | [暂无](                                       )  | 逻辑题                             |
+| 1110 | Complete Binary Tree (25)           | [暂无](                                       )  | 完全二叉树                         |
+| 1111 | Online Map (30)                     | [暂无](                                       )  | Dijkstra算法 + DFS                 |
+| 1112 | Stucked Keyboard (20)               | [暂无](                                       )  | map映射，STL的使用                 |
+| 1113 | Integer Set Partition (25)          | [暂无](                                       )  | 排序                               |
+| 1114 | Family Property (25)                | [暂无](                                       )  | 并查集                             |
+| 1115 | Counting Nodes in a BST (30)        | [暂无](                                       )  | 二叉树的遍历，DFS                  |
 | 1116 | Come on! Let’s C (20)               | [查看题解](http://www.liuchuo.net/archives/2476)  | 简单逻辑题                         |
 | 1117 | Eddington Number(25)                | [查看题解](http://www.liuchuo.net/archives/2478)  | 简单逻辑题                         |
 | 1118 | Birds in Forest (25)                | [查看题解](http://www.liuchuo.net/archives/2482)  | 并查集                             |

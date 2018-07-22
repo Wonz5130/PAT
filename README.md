@@ -12,49 +12,49 @@
 
 # PAT甲级题解  
 
-|  ID  | Title                               |                   C/C++(附分析)                   | 备注                               |
+|  No  | Title                               |                   C/C++(附分析)                   | 备注                               |
 | :--: | :---------------------------------- | :-----------------------------------------------: | :--------------------------------- |
-| 1001 | A+B Format (20)                     | [暂无](                                       )  | 字符串处理                         |
-| 1002 | A+B for Polynomials (25)            | [暂无](                                       )  | 模拟                               |
-| 1003 | Emergency (25)                      | [暂无](                                       )  | Dijkstra算法                       |
-| 1004 | Counting Leaves (30)                | [暂无](                                       )  | BFS，DFS，树的层序遍历             |
-| 1005 | Spell It Right (20)                 | [暂无](                                       )  | 字符串处理                         |
-| 1006 | Sign In and Sign Out (25)           | [查看题解](https://blog.csdn.net/wonz5130/article/details/81139774)  | 查找元素                           |
-| 1007 | Maximum Subsequence Sum(25)         | [暂无](                                       )  | 动态规划，最大连续子序列和         |
-| 1008 | Elevator (20)                       | [暂无](                                       )  | 数学问题                           |
-| 1009 | Product of Polynomials (25)         | [暂无](                                       )  | 模拟                               |
-| 1010 | Radix (25)                          | [暂无](                                       )  | 二分法                             |
-| 1011 | World Cup Betting (20)              | [查看题解](https://blog.csdn.net/wonz5130/article/details/81105662)  | 查找元素                           |
-| 1012 | The Best Rank (25)                  | [暂无](                                       )  | 排序                               |
-| 1013 | Battle Over Cities (25)             | [暂无](                                       )  | 图的遍历，统计连通分量的个数，DFS  |
-| 1014 | Waiting in Line (30)                | [暂无](                                       )  | queue的应用                        |
-| 1015 | Reversible Primes (20)              | [暂无](                                       )  | 素数                               |
-| 1016 | Phone Bills (25)                    | [暂无](                                       )  | 排序                               |
-| 1017 | Queueing at Bank (25)               | [暂无](                                       )  | 模拟                               |
-| 1018 | Public Bike Management (30)         | [暂无](                                       )  | Dijkstra算法 + DFS                 |
-| 1019 | General Palindromic Number (20)     | [暂无](                                       )  | 回文数                             |
-| 1020 | Tree Traversals (25)                | [暂无](                                       )  | 二叉树的遍历，后序中序转层序       |
-| 1021 | Deepest Root (25)                   | [暂无](                                       )  | 图的遍历，DFS，计算连通分量的个数  |
-| 1022 | Digital Library (30)                | [暂无](                                       )  | map映射，STL的使用                 |
-| 1023 | Have Fun with Numbers (20)          | [暂无](                                       )  | 大整数运算                         |
-| 1024 | Palindromic Number (25)             | [暂无](                                       )  | 大整数相加                         |
-| 1025 | PAT Ranking (25)                    | [暂无](                                       )  | 排序                               |
-| 1026 | Table Tennis (30)                   | [暂无](                                       )  | 模拟，排序                         |
-| 1027 | Colors in Mars (20)                 | [暂无](                                       )  | 进制转换                           |
-| 1028 | List Sorting (25)                   | [暂无](                                       )  | 排序                               |
-| 1029 | Median (25)                         | [暂无](                                       )  | two pointers                       |
-| 1030 | Travel Plan (30)                    | [暂无](                                       )  | Dijkstra算法 + DFS，最短路径，边权 |
-| 1031 | Hello World for U (20)              | [暂无](                                       )  | 图形打印                           |
-| 1032 | Sharing (25)                        | [暂无](                                       )  | 链表                               |
-| 1033 | To Fill or Not to Fill (25)         | [暂无](                                       )  | 贪心算法                           |
-| 1034 | Head of a Gang (30)                 | [暂无](                                       )  | 图的遍历，DFS                      |
-| 1035 | Password (20)                       | [暂无](                                       )  | 字符串处理                         |
-| 1036 | Boys vs Girls (25)                  | [查看题解](https://blog.csdn.net/wonz5130/article/details/81149414)  | 查找元素                           |
-| 1037 | Magic Coupon (25)                   | [暂无](                                       )  | 贪心算法                           |
-| 1038 | Recover the Smallest Number (30)    | [暂无](                                       )  | 贪心算法                           |
-| 1039 | Course List for Student (25)        | [暂无](                                       )  | 不定长数组vector，STL的使用        |
-| 1040 | Longest Symmetric String (25)       | [暂无](                                       )  | 动态规划                           |
-| 1041 | Be Unique (20)                      | [暂无](                                       )  | Hash散列                           |
+| 1001 | A+B Format (20')                     | [暂无](                                       )  | 字符串处理                         |
+| 1002 | A+B for Polynomials (25')            | [暂无](                                       )  | 模拟                               |
+| 1003 | Emergency (25')                      | [暂无](                                       )  | Dijkstra算法                       |
+| 1004 | Counting Leaves (30')                | [暂无](                                       )  | BFS，DFS，树的层序遍历             |
+| 1005 | Spell It Right (20')                 | [暂无](                                       )  | 字符串处理                         |
+| 1006 | Sign In and Sign Out (25')           | [查看题解](https://blog.csdn.net/wonz5130/article/details/81139774)  | 查找元素                           |
+| 1007 | Maximum Subsequence Sum(25')         | [暂无](                                       )  | 动态规划，最大连续子序列和         |
+| 1008 | Elevator (20')                       | [暂无](                                       )  | 数学问题                           |
+| 1009 | Product of Polynomials (25')         | [暂无](                                       )  | 模拟                               |
+| 1010 | Radix (25')                          | [暂无](                                       )  | 二分法                             |
+| 1011 | World Cup Betting (20')              | [查看题解](https://blog.csdn.net/wonz5130/article/details/81105662)  | 查找元素                           |
+| 1012 | The Best Rank (25')                  | [暂无](                                       )  | 排序                               |
+| 1013 | Battle Over Cities (25')             | [暂无](                                       )  | 图的遍历，统计连通分量的个数，DFS  |
+| 1014 | Waiting in Line (30')                | [暂无](                                       )  | queue的应用                        |
+| 1015 | Reversible Primes (20')              | [暂无](                                       )  | 素数                               |
+| 1016 | Phone Bills (25')                    | [暂无](                                       )  | 排序                               |
+| 1017 | Queueing at Bank (25')               | [暂无](                                       )  | 模拟                               |
+| 1018 | Public Bike Management (30')         | [暂无](                                       )  | Dijkstra算法 + DFS                 |
+| 1019 | General Palindromic Number (20')     | [暂无](                                       )  | 回文数                             |
+| 1020 | Tree Traversals (25')                | [暂无](                                       )  | 二叉树的遍历，后序中序转层序       |
+| 1021 | Deepest Root (25')                   | [暂无](                                       )  | 图的遍历，DFS，计算连通分量的个数  |
+| 1022 | Digital Library (30')                | [暂无](                                       )  | map映射，STL的使用                 |
+| 1023 | Have Fun with Numbers (20')          | [暂无](                                       )  | 大整数运算                         |
+| 1024 | Palindromic Number (25')             | [暂无](                                       )  | 大整数相加                         |
+| 1025 | PAT Ranking (25')                    | [暂无](                                       )  | 排序                               |
+| 1026 | Table Tennis (30')                   | [暂无](                                       )  | 模拟，排序                         |
+| 1027 | Colors in Mars (20')                 | [暂无](                                       )  | 进制转换                           |
+| 1028 | List Sorting (25')                   | [暂无](                                       )  | 排序                               |
+| 1029 | Median (25')                         | [暂无](                                       )  | two pointers                       |
+| 1030 | Travel Plan (30')                    | [暂无](                                       )  | Dijkstra算法 + DFS，最短路径，边权 |
+| 1031 | Hello World for U (20')              | [暂无](                                       )  | 图形打印                           |
+| 1032 | Sharing (25')                        | [暂无](                                       )  | 链表                               |
+| 1033 | To Fill or Not to Fill (25')         | [暂无](                                       )  | 贪心算法                           |
+| 1034 | Head of a Gang (30')                 | [暂无](                                       )  | 图的遍历，DFS                      |
+| 1035 | Password (20')                       | [暂无](                                       )  | 字符串处理                         |
+| 1036 | Boys vs Girls (25')                  | [查看题解](https://blog.csdn.net/wonz5130/article/details/81149414)  | 查找元素                           |
+| 1037 | Magic Coupon (25')                   | [暂无](                                       )  | 贪心算法                           |
+| 1038 | Recover the Smallest Number (30')    | [暂无](                                       )  | 贪心算法                           |
+| 1039 | Course List for Student (25')        | [暂无](                                       )  | 不定长数组vector，STL的使用        |
+| 1040 | Longest Symmetric String (25')       | [暂无](                                       )  | 动态规划                           |
+| 1041 | Be Unique (20')                      | [暂无](                                       )  | Hash散列                           |
 | 1042 | Shuffling Machine (20)              | [暂无](                                       )  | 模拟                               |
 | 1043 | Is It a Binary Search Tree (25)     | [暂无](                                       )  | 二叉查找树BST                      |
 | 1044 | Shopping in Mars (25)               | [暂无](                                       )  | 二分查找                           |

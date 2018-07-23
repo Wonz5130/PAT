@@ -32,7 +32,7 @@
 | 1016 | Phone Bills (25')                    | [暂无](                                       )  | 排序                               |
 | 1017 | Queueing at Bank (25')               | [暂无](                                       )  | 模拟                               |
 | 1018 | Public Bike Management (30')         | [暂无](                                       )  | Dijkstra算法 + DFS                 |
-| 1019 | General Palindromic Number (20')     | [暂无](                                       )  | 回文数                             |
+| 1019 | General Palindromic Number (20')     | [查看题解](https://blog.csdn.net/wonz5130/article/details/81159864)  | 回文数         |
 | 1020 | Tree Traversals (25')                | [暂无](                                       )  | 二叉树的遍历，后序中序转层序       |
 | 1021 | Deepest Root (25')                   | [暂无](                                       )  | 图的遍历，DFS，计算连通分量的个数  |
 | 1022 | Digital Library (30')                | [暂无](                                       )  | map映射，STL的使用                 |
@@ -44,7 +44,7 @@
 | 1028 | List Sorting (25')                   | [暂无](                                       )  | 排序                               |
 | 1029 | Median (25')                         | [暂无](                                       )  | two pointers                       |
 | 1030 | Travel Plan (30')                    | [暂无](                                       )  | Dijkstra算法 + DFS，最短路径，边权 |
-| 1031 | Hello World for U (20')              | [暂无](                                       )  | 图形打印                           |
+| 1031 | Hello World for U (20')              | [查看题解](https://blog.csdn.net/wonz5130/article/details/81158900)  | 图形打印       |
 | 1032 | Sharing (25')                        | [暂无](                                       )  | 链表                               |
 | 1033 | To Fill or Not to Fill (25')         | [暂无](                                       )  | 贪心算法                           |
 | 1034 | Head of a Gang (30')                 | [暂无](                                       )  | 图的遍历，DFS                      |
@@ -202,7 +202,7 @@
 | 1034 | 有理数四则运算 (20')           |  [暂无]()  | [暂无]() | 分数的四则运算        |
 | 1035 | 插入与归并 (25')               |  [暂无]()  |  [暂无]()     | two pointers          |
 | 1036 | 跟奥巴马一起编程 (15')         |  [查看题解](https://blog.csdn.net/wonz5130/article/details/79603171)  | [暂无]() | 图形打印 |
-| 1037 | 在霍格沃茨找零钱 (20')        |  [暂无]()  | [暂无]() | 进制转换              |
+| 1037 | 在霍格沃茨找零钱 (20')        |  [查看题解](https://blog.csdn.net/wonz5130/article/details/81158900)  | [暂无]() | 进制转换  |
 | 1038 | 统计同成绩学生 (20')           |  [暂无]()  | [暂无]() | Hash散列              |
 | 1039 | 到底买不买 (20')              |  [暂无]()  | [暂无]() | Hash散列              |
 | 1040 | 有几个PAT (25')               |  [暂无]()  | [暂无]() | 逻辑题                |

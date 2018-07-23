@@ -256,5 +256,5 @@
 
 # 致谢
 
-- 感谢[@柳婼学姐](https://github.com/liuchuo)提供的README.md版本以及一些思路
-- 感谢[@晴神胡凡]()的《算法笔记》
+- 感谢[@柳婼学姐](https://github.com/liuchuo) 提供的README.md版本以及一些思路
+- 感谢[@晴神胡凡]() 的《算法笔记》

@@ -13,7 +13,7 @@ int main(){
 	char Day[10][5] = {"MON","TUE","WED","THU","FRI","SAT","SUN"};
 	int flag = 0;
 	for(int i = 0;i < n1;i ++){
-		if(str1[i] == str2[i] && str1[i] >= 'A' && str1[i] <= 'G'){
+		if(str1[i] == str2[i] && str1[i] >= 'A' && str1[i] <= 'G'){  //一定要在A到G之间
 			//cout << Day[str1[i] - 'A'];
 			printf("%s",Day[str1[i] - 'A']);
 			flag = i;
@@ -25,12 +25,14 @@ int main(){
 		if(str1[i] == str2[i]){
 			if(str1[i] >= '0' && str1[i] <= '9'){  //0和9要加上''
 				//printf("%02d",str1[i] - '0');
-				cout << '0' << str1[i] - '0';
+				cout << '0' << str1[i] - '0';  //最后要减去'0'
+			    //cout << '0' << str1[i];  //这个是错的,有些样例过不去
 				break;
 			}
-			else if(str1[i] >= 'A' && str1[i] <= 'N'){
+			else if(str1[i] >= 'A' && str1[i] <= 'N'){  //一定要在A到N之间
 				//printf("%02d",str1[i] - 'A' + 10);
-				cout << str1[i]-'A' + 10;
+				cout << str1[i]-'A' + 10;  //最后要加上10
+				//cout << '1' << str1[i]-'A';  //这个是错的,有些样例过不去
 				break;
 			}
 		}
